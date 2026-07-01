@@ -1,4 +1,4 @@
-# 🎓 AUEB Java Assignments
+# 🎓 AUEB Assignments
 
 Welcome to my repository! This repository contains a collection of exercises and assignments completed during my BSc in Informatics (Computer Science) at the **Athens University of Economics and Business (AUEB)**.
 
