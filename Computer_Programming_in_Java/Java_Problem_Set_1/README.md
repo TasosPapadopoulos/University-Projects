@@ -1,6 +1,6 @@
 # 📝 Java Problem Set 1
 
-Welcome to the first problem set for the **Computer Programming with Java** course (AUEB). 
+Welcome to the first problem set for the **Computer Programming in Java** course (AUEB). 
 
 This directory contains the Java source code (`.java` files) for all the exercises included in this assignment.
 
