@@ -1,6 +1,8 @@
 # 📢 Advertising Company Management System
 
-Welcome to the repository for the Java Project of the **Computer Programming in Java** course (AUEB).
+Welcome to the Java Project for the **Computer Programming in Java** course (AUEB).
+
+This directory contains the Java source code (`.java` files) for the Advertising Company Management System.
 
 ## 🎯 Project Overview
 This project is a console-based Java application designed for an advertising company to manage products, partner Advertising Agencies (media providers), and advertising campaigns. The system handles three primary categories of advertisements:
