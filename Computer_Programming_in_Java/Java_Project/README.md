@@ -14,7 +14,7 @@ This project is a console-based Java application designed for an advertising com
 The application relies heavily on core Object-Oriented Programming principles to ensure code reusability and scalability:
 * **Inheritance & Abstraction:** A robust class hierarchy is implemented to model Agencies, Products, Advertisement Types, and the Advertisements themselves, moving common characteristics as high up the hierarchy as possible.
 * **Polymorphism:** Utilized extensively for calculating the cost of advertisements. Each ad type calculates its cost using a different formula (e.g., based on word count and page placement for print, or duration and time-zone for TV/Radio) via overridden common methods.
-* **Collections Framework:** The system heavily utilizes the `java.util` package to maintain and manipulate data lists for agencies, products, ad types, and active ads.
+* **Collections Framework:** The system heavily utilizes the `java.util` package to maintain and manipulate data lists for agencies, products, ad types, and advertisements.
 
 ## ⚙️ Key Features
 The application initializes with hardcoded sample data and provides an interactive, menu-driven interface allowing the user to:
