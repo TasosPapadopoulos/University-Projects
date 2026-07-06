@@ -4,6 +4,10 @@ Welcome to the Java Project for the **Computer Programming in Java** course (AUE
 
 This directory contains the Java source code (`.java` files) for the Advertising Company Management System.
 
+## 📄 Full Assignment Details
+For the complete assignment description, please refer to the attached official document:
+👉 **[Java_Project.pdf](./Java_2023_Ergasia1.pdf)** *(Note: The document is in Greek).*
+
 ## 🎯 Project Overview
 This project is a console-based Java application designed for an advertising company to manage products, partner Advertising Agencies (media providers), and advertising campaigns. The system handles three primary categories of advertisements:
 * Print Media (e.g., Newspapers, Magazines).
