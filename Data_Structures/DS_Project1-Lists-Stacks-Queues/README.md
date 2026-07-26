@@ -7,7 +7,7 @@ The core of this project is the implementation of a **Double-Ended Queue (Deque)
 
 ## 📄 Full Assignment Details
 
-For the complete problem descriptions, constraints, and execution examples, please refer to the attached official document: 👉 [Εργασία 1 (εκφώνηση) (DS23-project1).pdf](./Εργασία_1_(εκφώνηση)_(DS23-project1).pdf) *(Note: The document is in Greek)*.
+For the complete problem descriptions, constraints, and execution examples, please refer to the attached official document: 👉 [DS_Project_1.pdf](./Εργασία_1_(εκφώνηση)_(DS23-project1).pdf) *(Note: The document is in Greek)*.
 
 ## 🚀 Features & Implementations
 
