@@ -38,5 +38,5 @@ For the complete problem descriptions, constraints, and execution examples, plea
   * 📄 `Influenza_k.java` (Part A - Static Sorting Application)
   * 📄 `DynamicInfluenza_k_withPQ.java` (Part C - Dynamic Top-K Application)
   * 📄 `Dynamic_Median.java` (Part D - Dynamic Median Application)
-* 📄 `example.txt` : Sample input dataset.
+  * 📄 `example.txt` : Sample input dataset.
 * 📄 `project2-report.pdf` : A detailed technical report containing mathematical proofs, Big-O algorithmic complexity analysis, and execution traces for the implemented logic.
