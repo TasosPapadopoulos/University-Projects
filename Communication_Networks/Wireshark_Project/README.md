@@ -8,7 +8,7 @@ The core of this project revolves around analyzing local network traffic, unders
 
 ## 📄 Full Assignment Details
 
-For the complete task descriptions, constraints, and questions, please refer to the attached official document: 👉 `Assignment_Instructions.pdf` *(Note: The document is in Greek)*.
+For the complete task descriptions, constraints, and questions, please refer to the attached official document: 👉 [Wireshark_Project.pdf](wireshark_bonus_project_2025-2026.pdf) *(Note: The document is in Greek)*.
 
 ## 🚀 Key Features & Analysis
 
@@ -24,5 +24,5 @@ For the complete task descriptions, constraints, and questions, please refer to 
 
 ## 📂 Repository Structure
 
-* 📄 `Assignment_Instructions.pdf`: The official academic assignment description and questions.
-* 📄 `Wireshark_Project_Report.pdf`: A detailed technical report containing Wireshark execution screenshots, packet breakdowns, and analytical answers to the assignment's network questions.
+* 📄 `wireshark_bonus_project_2025-2026.pdf`: The official academic assignment description and questions.
+* 📄 `3160130.pdf`: A detailed technical report containing Wireshark execution screenshots, packet breakdowns, and analytical answers to the assignment's network questions.
