@@ -1,0 +1,8 @@
+Αναστάσιος-Ραφαήλ Παπαδόπουλος 3160130
+Φαγιάντ Ίωνας 3210209
+
+Endpoint: mysqlserver555.database.windows.net
+Database: ExercisesDatabase
+Username: examiner
+Password: KFtla12305!la@
+
